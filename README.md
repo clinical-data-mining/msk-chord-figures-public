@@ -12,5 +12,9 @@ Installation: see specific libraries for details. Expected install time ~15min
 data: Sample flat files containing characteristics for the MSK-CHORD cohort including follow-up time and mortality status (note: full data will be available on cBioPortal on study release)
 
 code: 
+
 --msk_chord_figures.ipynb: jupyter notebook using the files in data to reproduce the figures in the manuscript. Expected run time ~5min
+
+--run_rsf.py: standalone python file to train and 5-fold cross validate several random survival forests (RSFs) grouped by class of variable on the files in data
+
 --NLP folder: contains scripts with regex/rule based methods as well as the clinical-longformer used to predict survival ("radLongformer"). NOTE these are meant to be run on PHI so sample data is not provided. For additional examples using BERT and its variant architectures to train and validate NLP classifiers see https://huggingface.co/
