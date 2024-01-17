@@ -1,0 +1,77 @@
+AGENT,CLASS
+Trastuzumab,anti-HER2
+Paclitaxel,cytotoxic
+Cyclophosphamide,cytotoxic
+Tamoxifen Citrate,hormonal
+Doxorubicin Hydrochloride,cytotoxic
+Investigational Drug,other
+Letrozole,hormonal
+Capecitabine,cytotoxic
+Fulvestrant,hormonal
+Palbociclib,CDKi
+Carboplatin,cytotoxic
+Pertuzumab,anti-HER2
+Leuprolide Acetate,hormonal
+Exemestane,hormonal
+Anastrozole,hormonal
+Eribulin Mesylate,cytotoxic
+Gemcitabine Hydrochloride,cytotoxic
+Docetaxel,cytotoxic
+Vinorelbine Tartrate,cytotoxic
+Everolimus,mTORi
+Nabpaclitaxel,cytotoxic
+Trastuzumab Emtansine,anti-HER2
+Pegylated Liposomal Doxorubicin Hydrochloride,cytotoxic
+Lapatinib Ditosylate,anti-HER2
+Fluorouracil,cytotoxic
+Methotrexate,cytotoxic
+Goserlin Acetate,hormonal
+Bevacizumab,non-breast
+Cisplatin,non-breast
+Pembrolizumab,immunotherapy
+Abemaciclib,CDKi
+Olaparib,PARPi
+Ixabepilone,cytotoxic
+Epirubicin Hydrochloride,cytotoxic
+Alpelisib,PIK3CAi
+Nivolumab,immunotherapy
+Atezolizumab,immunotherapy
+Irinotecan Hydrochloride,cytotoxic
+Cabozantinib Smalate,non-breast
+Ifosfamide,non-breast
+Neratinib,anti-HER2
+Trastuzumab Deruxtecan,anti-HER2
+Etoposide,cytotoxic
+Other NOS,other
+Pazopanib Hydrochloride,non-breast
+Toremifene,hormonal
+Enzalutamide,non-breast
+Olaratumab,non-breast
+Sacituzumab Govitecan,cytotoxic
+Ipilimumab,non-breast
+Ribociclib,CDKi
+Bicalutamide,non-breast
+Other antineoplastic,non-breast
+Megestrol Acetate,non-breast
+Leucovorin Calcium,non-breast
+Sorafenib Tosylate,non-breast
+Trastuzumab/Hyaluronidase-oysk,anti-HER2
+Tucatinib,anti-HER2
+Rituximab,non-breast
+Oxaliplatin,non-breast
+Ponatinib Hydrochloride,non-breast
+Other hormone,hormonal
+Lenvatinib Mesylate,non-breast
+Taselisib,non-breast
+Dacarbazine,non-breast
+Yttrium Y90 Ibritumomab Tiuxetan,non-breast
+Pemetrexed Disodium,non-breast
+Tegafurgimeraciloteracil Potassium,non-breast
+Ramucirumab,non-breast
+Larotrectinib,non-breast
+Trametinib,non-breast
+Cetuximab,non-breast
+Bendamustine Hydrochloride,non-breast
+Paclitaxel Loaded Polymeric Micelle,non-breast
+Topotecan Hydrochloride,non-breast
+Pertuzumab-Trastuzumab-Hyaluronidase-ZZXF,anti-HER2

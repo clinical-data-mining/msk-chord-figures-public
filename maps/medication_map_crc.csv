@@ -1,0 +1,42 @@
+AGENT,CLASS
+Fluorouracil,cytotoxic
+Leucovorin Calcium,cytotoxic
+Oxaliplatin,cytotoxic
+Irinotecan Hydrochloride,cytotoxic
+Bevacizumab,vegf
+Capecitabine,cytotoxic
+Floxuridine,cytotoxic
+Investigational Drug,other
+Cetuximab,egfr
+Panitumumab,egfr
+Trifluridine and Tipiracil Hydrochloride,tpi
+Regorafenib,vegf
+Mitomycin,cytotoxic
+Pembrolizumab,immunotherapy
+Ziv Aflibercept,vegf
+Trametinib,braf
+Nivolumab,immunotherapy
+Dabrafenib,braf
+Cisplatin,cytotoxic
+Trastuzumab,her2
+Ramucirumab,vegf
+Vemurafenib,braf
+Atezolizumab,immunotherapy
+Irinotecan liposome,cytotoxic
+Etoposide,cytotoxic
+Ipilimumab,immunotherapy
+Cobimetinib,braf
+Gemcitabine Hydrochloride,cytotoxic
+Carboplatin,cytotoxic
+Other antineoplastic,other
+Encorafenib,braf
+Binimetinib,braf
+Pertuzumab,her2
+Olaparib,non-crc
+Lapatinib Ditosylate,her2
+Cabozantinib Smalate,non-crc
+Durvalumab,immunotherapy
+Trastuzumab Emtansine,her2
+Neratinib,her2
+Vinorelbine Tartrate,cytotoxic
+Temozolomide,cytotoxic

@@ -1,0 +1,97 @@
+AGENT,CLASS
+FLUOROURACIL,cytotoxic
+LEUCOVORIN,cytotoxic
+GEMCITABINE,cytotoxic
+OXALIPLATIN,cytotoxic
+IRINOTECAN,cytotoxic
+PACLITAXEL PROTEIN-BOUND,cytotoxic
+CAPECITABINE,cytotoxic
+IRINOTECAN LIPOSOMAL,cytotoxic
+CISPLATIN,cytotoxic
+OLAPARIB,PARPi
+TEMOZOLOMIDE,cytotoxic
+LEUPROLIDE,non-pancreas
+PEMBROLIZUMAB,immunotherapy
+CARBOPLATIN,cytotoxic
+LUTETIUM LU-177 DOTATATE,other
+EVEROLIMUS,other
+NIVOLUMAB,immunotherapy
+ETOPOSIDE,cytotoxic
+PEGPH20,other
+CYCLOPHOSPHAMIDE,cytotoxic
+HUMAB5B1,other
+ANASTROZOLE,non-pancreas
+IPILIMUMAB,immunotherapy
+ATEZOLIZUMAB,immunotherapy
+DURVALUMAB,immunotherapy
+DOXORUBICIN,cytotoxic
+SUNITINIB,other
+PACLITAXEL,cytotoxic
+AB680,other
+PAMREVLUMAB,other
+METHOTREXATE,cytotoxic
+RO7198457-B,other
+RO7198457-A,other
+YTTRIUM Y-90 THERASPHERES,other
+DOCETAXEL,cytotoxic
+RITUXIMAB,other
+ZEMBERELIMAB,other
+AB122,other
+DACARBAZINE,cytotoxic
+BMS-813160,other
+MITOMYCIN,cytotoxic
+TAMOXIFEN,non-pancreas
+ONC-392,other
+NECUPARANIB,PARPi
+RALOXIFENE,non-pancreas
+BICALUTAMIDE,non-pancreas
+ERLOTINIB,other
+TRAMETINIB,other
+OMP-59R5,other
+ELI-002,other
+VINCRISTINE,cytotoxic
+VELIPARIB,PARPi
+BCG,non-pancreas
+SM-88,other
+BEVACIZUMAB,other
+APX005M,other
+MOGAMULIZUMAB,non-pancreas
+LUTETIUM LU-177 DOTA-JR11,other
+LETROZOLE,non-pancreas
+M402,other
+YTTRIUM Y-90 MICROSPHERES,other
+DEGARELIX,non-pancreas
+EXEMESTANE,non-pancreas
+IFOSFAMIDE,cytotoxic
+COBIMETINIB,other
+ADI-PEG 20,other
+RP-3500,other
+LEE011,other
+AG-270,other
+TALAZOPARIB,PARPi
+MCLA-128,other
+TREMELIMUMAB,other
+ASP3082,other
+DABRAFENIB,other
+RUXOLITINIB,non-pancreas
+DOXORUBICIN LIPOSOMAL,cytotoxic
+PF-04136309,other
+PEMETREXED,cytotoxic
+CARMUSTINE,non-pancreas
+MELPHALAN,non-pancreas
+CABOZANTINIB,other
+AVELUMAB,immunotherapy
+ULOCUPLUMAB,non-pancreas
+ZIMBERELIMAB,non-pancreas
+YTTRIUM Y-90 CLIVATUZUMAB,other
+CYTARABINE,non-pancreas
+LOXO-195,other
+HYDROXYUREA,non-pancreas
+BORTEZOMIB,non-pancreas
+RO6958688,non-pancreas
+MRTX849,other
+IPI-549,other
+FLOXURIDINE,non-pancreas
+GALUNISERTIB,non-pancreas
+LENALIDOMIDE,non-pancreas
+MRG004A,other

@@ -1,0 +1,128 @@
+AGENT,CLASS
+LEUPROLIDE,GnRHR agonist
+DEGARELIX,GnRHR agonist
+ABIRATERONE,CYP17A1i
+BICALUTAMIDE,nonsteroidal antiandrogen
+DOCETAXEL,cytotoxic
+ENZALUTAMIDE,nonsteroidal antiandrogen
+GOSERELIN,GnRHR agonist
+CARBOPLATIN,cytotoxic
+CABAZITAXEL,cytotoxic
+DAROLUTAMIDE,nonsteroidal antiandrogen
+APALUTAMIDE,nonsteroidal antiandrogen
+RADIUM RA-223 DICHLORIDE,other
+OLAPARIB,PARPi
+PEMBROLIZUMAB,immunotherapy
+PACLITAXEL,cytotoxic
+ETOPOSIDE,cytotoxic
+NILUTAMIDE,nonsteroidal antiandrogen
+LUTETIUM LU-177 DOTATATE,other
+ARN-509,nonsteroidal antiandrogen
+RELUGOLIX,GnRHR agonist
+CISPLATIN,cytotoxic
+NIVOLUMAB,immunotherapy
+CYCLOPHOSPHAMIDE,cytotoxic
+ATEZOLIZUMAB,immunotherapy
+IPILIMUMAB,immunotherapy
+RUCAPARIB,PARPi
+MITOXANTRONE,cytotoxic
+FLUOROURACIL,non-prostate
+LEUCOVORIN,non-prostate
+METHOTREXATE,non-prostate
+OXALIPLATIN,non-prostate
+FLUTAMIDE,nonsteroidal antiandrogen
+GEMCITABINE,cytotoxic
+CC-115,other
+TRIPTORELIN,GnRHR agonist
+DSTP3086S,other
+EC1169,other
+CC-94676,other
+IRINOTECAN,non-prostate
+CABOZANTINIB,non-prostate
+ESTRAMUSTINE,cytotoxic
+SIPULEUCEL-T,17
+CAPECITABINE,cytotoxic
+DOXORUBICIN,cytotoxic
+TALAZOPARIB,PARPi
+ZEN003694,other
+RIBOCICLIB,non-prostate
+TEMOZOLOMIDE,cytotoxic
+AC225 H11B6 MED 20-321,other
+VINCRISTINE,cytotoxic
+BEVACIZUMAB,other
+AZD8186,other
+MDV3100,other
+TAMOXIFEN,non-prostate
+PF-06755992,other
+AMG 160,other
+FLUDARABINE,non-prostate
+AZD0156,other
+LY3022855,other
+VT-464,other
+PROSTVAC-F,other
+TAS3681,other
+ORIC-101,other
+JNJ-56021927,other
+AVELUMAB,immunotherapy
+SACITUZUMAB GOVITECAN,non-prostate
+DURVALUMAB,immunotherapy
+IODINE I-131 MIP-1095,non-prostate
+PF-06755990,other
+TREMELIMUMAB,immunotherapy
+EVEROLIMUS,other
+DS-7300A,other
+PROSTVAC-V,other
+TAZEMETOSTAT,non-prostate
+RO7198457-A,other
+RO7198457-B,other
+TRC253,other
+MITOMYCIN,non-prostate
+CORT125281,other
+IBRUTINIB,non-prostate
+PSMA DNA VACCINE,other
+MLN8237,other
+MLN0128,other
+EPI-7386,other
+PEMETREXED,non-prostate
+BINIMETINIB,other
+ARSENIC TRIOXIDE,non-prostate
+CDX-301,other
+PF-06801591,other
+DARATUMUMAB,non-prostate
+FLOXURIDINE,non-prostate
+RP-3500,other
+TOPOTECAN,cytotoxic
+YTTRIUM Y-90 THERASPHERES,other
+SODIUM IODIDE I-131,non-prostate
+AZD5363,other
+ENCORAFENIB,other
+LENALIDOMIDE,non-prostate
+TOREMIFENE,non-prostate
+RADIUM RA-223 CHLORIDE,other
+DIETHYLSTILBESTROL,non-prostate
+ANASTROZOLE,non-prostate
+ACALABRUTINIB,non-prostate
+SORAFENIB,non-prostate
+CYTARABINE,non-prostate
+AZD1775,other
+MUC-1 KLH,other
+QS-21,other
+RUXOLITINIB,non-prostate
+DOXORUBICIN LIPOSOMAL,cytotoxic
+AMG 509,other
+CC-90011,other
+HYDROXYUREA,non-prostate
+PSMA/ALHYDROGEL,other
+VENETOCLAX,non-prostate
+CRIZOTINIB,non-prostate
+CEMIPLIMAB,non-prostate
+AZD6738,other
+MELPHALAN,non-prostate
+BIND-014,other
+TRAMETINIB,non-prostate
+BORTEZOMIB,non-prostate
+POLY-ICLC,non-prostate
+PACLITAXEL PROTEIN-BOUND,cytotoxic
+LETROZOLE,non-prostate
+INO-5151,other
+VINORELBINE,cytotoxic
