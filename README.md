@@ -1,5 +1,5 @@
 # msk-chord-figures-public
-Code and sample data for the MSK-CHORD manuscript (public version). Previous description of the project can be found [here](https://aacrjournals.org/cancerres/article/83/7_Supplement/5721/722288/Abstract-5721-Automated-annotation-for-large-scale). Manuscript forthcoming.
+Code and sample data for the [MSK-CHORD paper](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) (public version). Previous description of the project can be found [here](https://aacrjournals.org/cancerres/article/83/7_Supplement/5721/722288/Abstract-5721-Automated-annotation-for-large-scale). Available under [Creative Commons BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
 NOTE: do NOT upload PHI
 
 ## Requirements
