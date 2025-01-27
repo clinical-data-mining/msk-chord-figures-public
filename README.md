@@ -1,5 +1,5 @@
 # msk-chord-figures-public
-Code and sample data for the [MSK-CHORD paper](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) (public version). Previous description of the project can be found [here](https://aacrjournals.org/cancerres/article/83/7_Supplement/5721/722288/Abstract-5721-Automated-annotation-for-large-scale). Available under [Creative Commons BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
+Code and sample data for the [MSK-CHORD paper](https://www.nature.com/articles/s41586-024-08167-5) (public version). Available under [Creative Commons BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
 NOTE: do NOT upload PHI
 
 ## Requirements
@@ -10,7 +10,7 @@ Installation: see specific libraries for details. Expected install time ~15min
 
 ## Components:
 ### data
-Sample flat files containing characteristics for the MSK-CHORD cohort including follow-up time and mortality status (note: full data will be available on cBioPortal on study release)
+Sample flat files containing characteristics for the MSK-CHORD cohort including follow-up time and mortality status (note: full data available on [cBioPortal](https://www.cbioportal.org/study/summary?id=msk_chord_2024))
 
 ### code 
 
